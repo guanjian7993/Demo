@@ -1,0 +1,9 @@
+Main()
+{
+     print "hello word"
+}
+
+menthod()
+{
+    print "my name is –°∑ ≈£"
+}
